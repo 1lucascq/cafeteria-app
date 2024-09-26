@@ -5,7 +5,7 @@ const IndexComponent: React.FC = () => {
 
   return (
     <div>
-      {/* Your component JSX here */}
+      My component JSX
     </div>
   );
 };
